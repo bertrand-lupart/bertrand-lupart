@@ -1,4 +1,4 @@
-### Hi there 👋
+Always wondered why github's profile didn't make a direct link to [gists](https://gist.github.com/bertrand-lupart)
 
 <!--
 **bertrand-lupart/bertrand-lupart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
